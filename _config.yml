@@ -1,14 +1,14 @@
 # Site settings
-title: Jekyll-Uno
-description: 'Jekyll-Uno - a minimal, responsive theme for Jekyll'
-url: 'http://joshgerdes.com/jekyll-uno'
-baseurl: '/jekyll-uno'
+title: Caterina Crisponi
+description: 'my personal blog'
+url: 'https://caterinacrisponi.github.io'
+baseurl:
 # google_analytics: 'UA-XXXXXX-X'
 # disqus_shortname: 'your-disqus-name'
 
 author:
-  name: 'Josh Gerdes'
-  email: josh@joshgerdes.com
+  name: 'Caterina Crisponi'
+  email: caterinacrisponi@gmail.com
   twitter_username: joshgerdes
   facebook_username: joshgerdes
   github_username:  joshgerdes
